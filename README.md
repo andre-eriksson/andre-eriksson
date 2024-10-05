@@ -25,7 +25,7 @@ I'm André Eriksson, a student at [KTH](https://www.kth.se/) studying for my und
 
 💻 [https://github.com/medieteknik-kth/medieteknik.com/](https://github.com/medieteknik-kth/medieteknik.com/)
 #### My Role
-I am the current maintainer of the website and I am also the Project Lead and main programmer on the [redesign](https://github.com/medieteknik-kth/medieteknik.com/tree/hemsidan-redesign) project
+I am the current maintainer of the website and I am also the Project Lead and main programmer on the ongoing redesign project.
 
-#### Technologies
+#### Technologies Used
 [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff)](https://flask.palletsprojects.com/en/3.0.x/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)  [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=en) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff)](https://ui.shadcn.com/)
