@@ -1,7 +1,7 @@
 ### `< Hello, World />`
 --------------------------------
 ## Description
-I'm André Eriksson, a student at [KTH](https://www.kth.se/) studying for my undergraduates in Sweden.
+I'm André Eriksson, a student at [KTH](https://www.kth.se/) studying for my **BSc** and **MSc** in Sweden.
 
 [![Gmail](https://img.shields.io/badge/andreeriksson444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreeriksson444@gmail.com)
 
