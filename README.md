@@ -25,7 +25,7 @@ I'm André Eriksson, a fullstack student developer at [KTH](https://www.kth.se/)
     <td width="500">
       <h3>medieteknik.com </h3>
       <p>A fullstack web application built by and for students at the Chpater of Media Technology. It is built with <strong>Next.JS</strong> and <strong>Flask</strong>.</p>
-      <a href="https://github.com/medieteknik-kth/medieteknik.com/">💻 View Project →</a>
+      <a href="https://github.com/medieteknik-kth">🏢 View Organization →</a>
       <br />
       <a href="https://www.medieteknik.com/">🌍 View Website →</a>
       <br/>
